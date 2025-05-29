@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/umair/OneDrive/Desktop/cyber_bulling/mlruns/199992785806231502/67b8e46cb1eb43a88f3126fcb57e3cf4/artifacts
+end_time: 1742292335250
+entry_point_name: ''
+experiment_id: '199992785806231502'
+lifecycle_stage: active
+run_id: 67b8e46cb1eb43a88f3126fcb57e3cf4
+run_name: debonair-bug-101
+run_uuid: 67b8e46cb1eb43a88f3126fcb57e3cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742292255884
+status: 3
+tags: []
+user_id: umair

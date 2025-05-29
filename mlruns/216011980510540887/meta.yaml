@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/umair/OneDrive/Desktop/cyber_bulling/mlruns/216011980510540887
+creation_time: 1742291113097
+experiment_id: '216011980510540887'
+last_update_time: 1742291113097
+lifecycle_stage: active
+name: data_ingestion.py
