@@ -1,0 +1,25 @@
+2025-02-24 15:27:35,446 - data_preprocessing - ERROR - Failed to complete the data transformation process: [Errno 22] Invalid argument: 'data\raw\\Ready_data.csv'
+2025-02-24 15:30:24,306 - data_preprocessing - DEBUG - Data loaded successfully
+2025-02-24 15:30:24,314 - data_preprocessing - DEBUG - Processing column: content
+2025-02-24 15:30:24,564 - data_preprocessing - ERROR - Failed to complete the data transformation process: 'numpy.ndarray' object has no attribute 'decode'
+2025-02-24 15:59:06,161 - data_preprocessing - DEBUG - Data loaded successfully
+2025-02-24 15:59:06,166 - data_preprocessing - DEBUG - Processing column: content
+2025-02-24 15:59:11,661 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
+2025-02-24 19:03:52,423 - data_preprocessing - DEBUG - Data loaded successfully
+2025-02-24 19:03:52,426 - data_preprocessing - DEBUG - Processing column: content
+2025-02-24 19:03:58,335 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
+2025-03-14 02:46:33,534 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-14 02:46:33,534 - data_preprocessing - DEBUG - Processing column: content
+2025-03-14 02:46:40,363 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
+2025-03-14 14:29:17,887 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-14 14:29:17,890 - data_preprocessing - DEBUG - Processing column: content
+2025-03-14 14:29:25,510 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
+2025-03-14 14:39:22,520 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-14 14:39:22,522 - data_preprocessing - DEBUG - Processing column: content
+2025-03-14 14:39:28,537 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
+2025-03-16 17:32:07,133 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-16 17:32:07,133 - data_preprocessing - DEBUG - Processing column: content
+2025-03-16 17:32:13,228 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
+2025-03-18 14:45:48,768 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-18 14:45:48,770 - data_preprocessing - DEBUG - Processing column: content
+2025-03-18 14:45:55,587 - data_preprocessing - DEBUG - Processed data saved to ./data\interim

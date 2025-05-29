@@ -1,0 +1,43 @@
+2025-02-24 19:15:26,114 - Feature_engineering - DEBUG - Data loaded successfully.
+2025-02-24 19:15:26,114 - Feature_engineering - DEBUG - Applying TF-IDF...
+2025-02-24 19:15:26,179 - Feature_engineering - ERROR - Failed to perform TFIDF: np.nan is an invalid document, expected byte or unicode string.
+2025-02-24 19:15:26,179 - Feature_engineering - ERROR - TF-IDF transformation failed. Exiting.
+2025-02-24 22:40:41,997 - Feature_engineering - DEBUG - Data loaded successfully.
+2025-02-24 22:40:41,997 - Feature_engineering - DEBUG - Applying TF-IDF...
+2025-02-24 22:40:42,717 - Feature_engineering - DEBUG - TF-IDF transformation completed successfully.
+2025-02-24 22:41:27,574 - Feature_engineering - DEBUG - Vectorized data saved to ./data/Vectorized
+2025-02-25 15:03:30,163 - Feature_engineering - DEBUG - Data loaded successfully.
+2025-02-25 15:03:30,163 - Feature_engineering - DEBUG - Applying TF-IDF...
+2025-02-25 15:03:30,710 - Feature_engineering - DEBUG - TF-IDF transformation completed successfully.
+2025-02-25 15:03:37,445 - Feature_engineering - DEBUG - Handling data completed successfully.
+2025-02-25 15:06:24,069 - Feature_engineering - DEBUG - Vectorized data saved to ./data/Vectorized
+2025-03-01 16:47:49,346 - Feature_engineering - DEBUG - Data loaded
+2025-03-14 02:49:19,816 - Feature_engineering - DEBUG - Data loaded successfully.
+2025-03-14 02:49:19,820 - Feature_engineering - DEBUG - Applying TF-IDF...
+2025-03-14 02:49:20,369 - Feature_engineering - DEBUG - TF-IDF transformation completed successfully.
+2025-03-14 02:49:27,726 - Feature_engineering - DEBUG - Handling data completed successfully.
+2025-03-14 02:52:41,667 - Feature_engineering - DEBUG - Vectorized data saved to ./data/Vectorized
+2025-03-14 14:29:33,990 - Feature_engineering - DEBUG - Data loaded successfully.
+2025-03-14 14:29:33,990 - Feature_engineering - DEBUG - Applying TF-IDF...
+2025-03-14 14:29:34,758 - Feature_engineering - DEBUG - TF-IDF transformation completed successfully.
+2025-03-14 14:29:43,243 - Feature_engineering - DEBUG - Handling data completed successfully.
+2025-03-14 14:33:10,039 - Feature_engineering - DEBUG - Vectorized data saved to ./data/Vectorized
+2025-03-14 14:39:36,617 - Feature_engineering - DEBUG - Data loaded successfully.
+2025-03-14 14:39:36,617 - Feature_engineering - DEBUG - Applying TF-IDF...
+2025-03-14 14:39:37,159 - Feature_engineering - DEBUG - TF-IDF transformation completed successfully.
+2025-03-14 14:39:44,575 - Feature_engineering - DEBUG - Handling data completed successfully.
+2025-03-14 14:43:10,673 - Feature_engineering - DEBUG - Vectorized data saved to ./data/Vectorized
+2025-03-16 17:32:27,855 - Feature_engineering - DEBUG - Data loaded successfully.
+2025-03-16 17:32:27,855 - Feature_engineering - DEBUG - Applying TF-IDF...
+2025-03-16 17:32:28,602 - Feature_engineering - DEBUG - TF-IDF transformation completed successfully.
+2025-03-16 17:32:37,145 - Feature_engineering - DEBUG - Handling data completed successfully.
+2025-03-16 17:35:55,797 - Feature_engineering - DEBUG - Vectorized data saved to ./data/Vectorized
+2025-03-18 14:46:05,405 - Feature_engineering - DEBUG - Data loaded successfully.
+2025-03-18 14:46:05,405 - Feature_engineering - DEBUG - Applying TF-IDF...
+2025-03-18 14:46:05,987 - Feature_engineering - DEBUG - TF-IDF transformation completed successfully.
+2025-03-18 14:46:23,223 - Feature_engineering - DEBUG - Handling data completed successfully.
+2025-03-18 14:50:07,413 - Feature_engineering - DEBUG - Data loaded successfully.
+2025-03-18 14:50:07,415 - Feature_engineering - DEBUG - Applying TF-IDF...
+2025-03-18 14:50:08,450 - Feature_engineering - DEBUG - TF-IDF transformation completed successfully.
+2025-03-18 14:50:25,188 - Feature_engineering - DEBUG - Handling data completed successfully.
+2025-03-18 14:53:50,106 - Feature_engineering - DEBUG - Vectorized data saved to ./data/Vectorized

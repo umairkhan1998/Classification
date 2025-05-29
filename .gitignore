@@ -1,0 +1,6 @@
+# Ignore all pickle files
+*.pkl
+
+# Ignore data folder
+data/
+mlruns/

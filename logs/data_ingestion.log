@@ -1,0 +1,31 @@
+2025-02-10 21:00:45,802 - data_ingestion - ERROR - File not found: params.yaml
+2025-02-10 21:00:45,802 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-02-10 21:01:13,583 - data_ingestion - DEBUG - Parameters retrieved from param.yaml
+2025-02-10 21:01:13,583 - data_ingestion - ERROR - Failed to complete the data ingestion process: 'NoneType' object is not subscriptable
+2025-02-10 21:07:26,445 - data_ingestion - DEBUG - Data loaded from https://drive.google.com/uc?export=download&id=12fBlhsa5GIdtme1jT3KlPPIgIdjzqhv1
+2025-02-10 21:07:26,453 - data_ingestion - ERROR - Missing column in the dataframe: "['extras'] not found in axis"
+2025-02-10 21:07:26,453 - data_ingestion - ERROR - Failed to complete the data ingestion process: "['extras'] not found in axis"
+2025-02-10 21:09:27,312 - data_ingestion - DEBUG - Data loaded from https://drive.google.com/uc?export=download&id=12fBlhsa5GIdtme1jT3KlPPIgIdjzqhv1
+2025-02-10 21:09:31,051 - data_ingestion - DEBUG - Data preprocessing completed
+2025-02-10 21:09:31,120 - data_ingestion - DEBUG - data saved to ./data\raw
+2025-02-10 21:13:43,315 - data_ingestion - DEBUG - Data loaded from https://drive.google.com/uc?export=download&id=12fBlhsa5GIdtme1jT3KlPPIgIdjzqhv1
+2025-02-10 21:13:47,152 - data_ingestion - DEBUG - Data preprocessing completed
+2025-02-10 21:13:47,208 - data_ingestion - DEBUG - data saved to ./data\raw
+2025-03-03 15:35:09,259 - data_ingestion - DEBUG - Data loaded from https://drive.google.com/uc?export=download&id=12fBlhsa5GIdtme1jT3KlPPIgIdjzqhv1
+2025-03-03 15:35:13,683 - data_ingestion - DEBUG - Data preprocessing completed
+2025-03-03 15:35:13,736 - data_ingestion - DEBUG - data saved to ./data\raw
+2025-03-14 02:45:12,241 - data_ingestion - DEBUG - Data loaded from https://drive.google.com/uc?export=download&id=12fBlhsa5GIdtme1jT3KlPPIgIdjzqhv1
+2025-03-14 02:45:16,054 - data_ingestion - DEBUG - Data preprocessing completed
+2025-03-14 02:45:16,123 - data_ingestion - DEBUG - data saved to ./data\raw
+2025-03-14 14:21:14,857 - data_ingestion - DEBUG - Data loaded from https://drive.google.com/uc?export=download&id=12fBlhsa5GIdtme1jT3KlPPIgIdjzqhv1
+2025-03-14 14:21:19,435 - data_ingestion - DEBUG - Data preprocessing completed
+2025-03-14 14:21:19,491 - data_ingestion - DEBUG - data saved to ./data\raw
+2025-03-14 14:38:56,153 - data_ingestion - DEBUG - Data loaded from https://drive.google.com/uc?export=download&id=12fBlhsa5GIdtme1jT3KlPPIgIdjzqhv1
+2025-03-14 14:39:00,875 - data_ingestion - DEBUG - Data preprocessing completed
+2025-03-14 14:39:00,942 - data_ingestion - DEBUG - data saved to ./data\raw
+2025-03-16 17:31:25,883 - data_ingestion - DEBUG - Data loaded from https://drive.google.com/uc?export=download&id=12fBlhsa5GIdtme1jT3KlPPIgIdjzqhv1
+2025-03-16 17:31:30,534 - data_ingestion - DEBUG - Data preprocessing completed
+2025-03-16 17:31:30,598 - data_ingestion - DEBUG - data saved to ./data\raw
+2025-03-18 14:45:20,739 - data_ingestion - DEBUG - Data loaded from https://drive.google.com/uc?export=download&id=12fBlhsa5GIdtme1jT3KlPPIgIdjzqhv1
+2025-03-18 14:45:25,377 - data_ingestion - DEBUG - Data preprocessing completed
+2025-03-18 14:45:25,440 - data_ingestion - DEBUG - data saved to ./data\raw
